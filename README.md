@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Learning Vue.js, Mastering TailwindCSS Deep, Dive into Flutter & Dart for cross-platform mobile apps**
 
-- 🔭 I’m currently working on **Flutter Banking app**
+- 🔭 I’m currently working on **ERP ODOO**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/NeonBox/](https://www.behance.net/NeonBox/)
 
