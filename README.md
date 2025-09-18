@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamasood23&label=Profile%20views&color=0e75b6&style=flat" alt="talhamasood23" /> </p>
 
-TalhaMasood23/dot-ag
 
 
 - 🔭 I’m currently working on **Laravel-based eCommerce Website**
