@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamasood23&label=Profile%20views&color=0e75b6&style=flat" alt="talhamasood23" /> </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhamasood23&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhamasood23&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+TalhaMasood23/dot-ag
 
 
 - 🔭 I’m currently working on **Laravel-based eCommerce Website**
