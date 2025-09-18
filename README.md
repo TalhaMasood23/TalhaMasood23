@@ -104,13 +104,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood23&" alt="talhamasood23" /></p>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dot-agi&theme=merko" alt="Line" />
-</div>
-
 <div align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
