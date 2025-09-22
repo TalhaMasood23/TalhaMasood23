@@ -105,10 +105,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood23&" alt="talhamasood23" /></p>
 
 <div align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dot-agi/dot-agi/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dot-agi/dot-agi/output/github-contribution-grid-snake.svg" />
