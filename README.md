@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm M. Talha Masood</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+M.+Talha+Masood" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=A+Passionate+Software+Engineer+from+Pakistan" alt="Typing SVG" />
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhamasood23&label=Profile%20views&color=0e75b6&style=flat" alt="talhamasood23" /> </p>
 
