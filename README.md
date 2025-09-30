@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+M.+Talha+Masood" alt="Typing SVG" />
+  ✨ Hi there, I'm <span style="color:#00C9FF;">M. Talha Masood</span> 👋
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=A+Passionate+Software+Engineer+from+Pakistan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=600&lines=💻+A+Passionate+Software+Engineer;🌍+From+Pakistan;🚀+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
 </h3>
 
 
